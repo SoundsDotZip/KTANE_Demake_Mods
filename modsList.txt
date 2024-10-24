@@ -1,4 +1,4 @@
 {
-  test_mod1={name="TestMod1",description={"This is an example mod.","Let's see if this works."}},
-  test_mod2={name="TestMod2",description="This is another example mod.\nThis should work too."}
+{name="TestMod1",description={"This is an example mod.","Let's see if this works."}},
+{name="TestMod2",description="This is another example mod.\nThis should work too."}
 }
