@@ -1,7 +1,7 @@
 {
   {
     name="TestMod1",
-    description="This is THE example mod.\n"Let's see if this works.",
+    description="This is THE example mod.\nLet's see if this works.",
     icon=b64:bHo0AGUAAABrAAAA9ARweHUAQyAQEARFUIUAHxs-GgB1BwDzBG8bAGWAZQAEDw8ADgAOAHUABA4JADBeAIUuAPAgGAYdBgBlAC03AFUAHgAGNw4ARQAeAA03DgBVEB8QEBwAdQAPDAAFAAsAhRAVEFU=)
   },
   {
