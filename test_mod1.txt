@@ -1,0 +1,1 @@
+{name="TestMod1",description={"This is an example mod.","Let's see if this works."}}
